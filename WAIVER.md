@@ -1,8 +1,8 @@
 # The Tried Intelligent Methods Met Impossible Trolls Waiver (TIMMIT) v1.0
 
-As declared on <date> at <name of corporation> by the project developers
+As declared on {DATE} at {NAME-OF-CORPORATION} by the project developers
 
-Responsibility is hereby waived, to the maximum amount allowed by law and binding legal contracts, from any developer associated with this project, including (any of), but not limited to: software developers, system administrators, designers, usability experts, test engineers, technical writers, but excluding all upper management roles, including, but not limited to: project managers, chief technical officers, chief executive officers. Permission is hereby granted to all obligated developers to continue work on this project. The project is subject to the following conditions:
+Responsibility is hereby waived, to the maximum amount allowed by law and binding legal contracts, from any developer associated with this project, including (any of), but not limited to: software developers, system administrators, designers, usability experts, test engineers, technical writers, but excluding all decision-making stakeholder roles, including, but not limited to: project managers, chief technical officers, chief executive officers and the product owner. Permission is hereby granted to all obligated developers to continue work on this project. The project is subject to the following conditions:
 
 The above waiver and this permission notice shall be included in all copies or substantial portions of the Software.
 
